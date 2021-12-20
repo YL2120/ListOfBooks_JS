@@ -53,6 +53,16 @@ button {
     text-align: center;
 }
 
+.delete{
+    width: 30px;
+    height: 30px;
+    padding : 0px;
+    background: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 table{
     width: 100%;
     
