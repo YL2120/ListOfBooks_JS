@@ -4,6 +4,6 @@ The goal is to display a list of books once someone filled the inputs. If the fi
 
 This small project was made with JavaScript and an OOP approach.
 
-You can check the result [here]
+You can check the result [here](https://yl2120.github.io/ListOfBooks_JS/)
 ## License
 [BeCode](https://becode.org/fr/)
